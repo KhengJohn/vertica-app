@@ -8,7 +8,7 @@ const NavBar = () => {
   };
 
   return (
-    <div className="flex justify-between px-16 py-5">
+    <div className="flex justify-between px-7 lg:px-16 py-5">
       <div>
         <img
           className="h-[38px] w-[90px]"
